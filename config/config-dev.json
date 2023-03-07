@@ -1,0 +1,13 @@
+{
+    "database": {
+        "protocol" : "",
+        "host": "127.0.0.1",
+        "port": "27017",
+        "dbName": "reference",
+        "dbUser": "",
+        "dbUserPassword": ""
+    },
+    "sources": {
+        "wikipedia": "http://www.wikipedia.org"
+    }
+}
